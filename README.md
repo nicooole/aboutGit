@@ -8,7 +8,7 @@ git config --global http.proxy
 
 设置代理
 
-git config --global http.proxy 127.0.0.1:8582
+git config --global http.proxy 192.168.1.97:81
 
 取消代理
 
